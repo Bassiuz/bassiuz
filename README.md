@@ -20,11 +20,11 @@ By day, you'll find me conjuring elegant Flutter solutions at Dutch Coding Compa
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bassiuz)](https://git.io/streak-stats)
 
 ### Open Source Developer at projects:
-[- 🎮 Flutter Gaimon](https://github.com/istornz/flutter_gaimon)
-[- 🚀 FVM](https://github.com/leoafarias/fvm)
-[- 📱 Flutter](https://github.com/flutter/flutter)
-[- 📖 Prevent Orphan Text](https://github.com/Bassiuz/prevent_orphan_text)
-[- 🔐 OAuth Chopper](https://github.com/DutchCodingCompany/oauth_chopper)
+- [🎮 Flutter Gaimon](https://github.com/istornz/flutter_gaimon)
+- [🚀 FVM](https://github.com/leoafarias/fvm)
+- [📱 Flutter](https://github.com/flutter/flutter)
+- [📖 Prevent Orphan Text](https://github.com/Bassiuz/prevent_orphan_text)
+- [🔐 OAuth Chopper](https://github.com/DutchCodingCompany/oauth_chopper)
 
 ---
 
