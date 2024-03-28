@@ -17,7 +17,7 @@ By day, you'll find me conjuring elegant Flutter solutions at Dutch Coding Compa
 - 👾 Fun fact: I'm an avid Magic: The Gathering player and love exploring new strategies.
 
 ### 📈 My GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bassiuz)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bassiuz&theme=nightfox&hide_border=true)](https://git.io/streak-stats)
 
 ### Open Source Developer at projects:
 - [🎮 Flutter Gaimon](https://github.com/istornz/flutter_gaimon)
