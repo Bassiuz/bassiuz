@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hello, I'm Bas de Vaan 👋🧙‍♂️
 
-<!--
-**Bassiuz/bassiuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Software Developer at Dutch Coding Company
 
-Here are some ideas to get you started:
+Welcome to my digital realm, where code 🧬 and creativity 🎨 converge! I'm a passionate Flutter developer on a mission to weave digital magic into every mobile experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me
+With over 10 years of (app) development experience, I'm here to teach 📚 and help you turn your app dreams into captivating reality. But that's not all – beyond the lines of code, I'm a self-proclaimed Magic: The Gathering sorcerer 🧙‍♂️ with a penchant for mastering off-grid strategies.
+
+### 💼 What I Do
+By day, you'll find me conjuring elegant Flutter solutions at Dutch Coding Company, where I'm constantly pushing the boundaries of what's possible in mobile development.
+
+### 🤝 Let's Connect
+- 📫 How to reach me:
+    - 🐦 Twitter / X: bassiuz
+    - 🔗 LinkedIn: Bas de Vaan
+- 👾 Fun fact: I'm an avid Magic: The Gathering player and love exploring new strategies.
+
+### 📈 My GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bassiuz)](https://git.io/streak-stats)
+
+### Open Source Developer at projects:
+[- 🎮 Flutter Gaimon](https://github.com/istornz/flutter_gaimon)
+[- 🚀 FVM](https://github.com/leoafarias/fvm)
+[- 📱 Flutter](https://github.com/flutter/flutter)
+[- 📖 Prevent Orphan Text](https://github.com/Bassiuz/prevent_orphan_text)
+[- 🔐 OAuth Chopper](https://github.com/DutchCodingCompany/oauth_chopper)
+
+---
+
+⭐️ From Bassiuz
