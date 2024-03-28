@@ -23,6 +23,7 @@ By day, you'll find me conjuring elegant Flutter solutions at Dutch Coding Compa
 - [🎮 Flutter Gaimon](https://github.com/istornz/flutter_gaimon)
 - [🚀 FVM](https://github.com/leoafarias/fvm)
 - [📱 Flutter](https://github.com/flutter/flutter)
+- [📚 Widgetbook](https://github.com/widgetbook/widgetbook)
 - [📖 Prevent Orphan Text](https://github.com/Bassiuz/prevent_orphan_text)
 - [🔐 OAuth Chopper](https://github.com/DutchCodingCompany/oauth_chopper)
 
