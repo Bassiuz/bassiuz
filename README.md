@@ -12,8 +12,8 @@ By day, you'll find me conjuring elegant Flutter solutions at Dutch Coding Compa
 
 ### 🤝 Let's Connect
 - 📫 How to reach me:
-    - 🐦 Twitter / X: bassiuz
-    - 🔗 LinkedIn: Bas de Vaan
+    - [🐦 Twitter / X](https://x.com/bassiuz)
+    - [🔗 LinkedIn](https://www.linkedin.com/in/bas-de-vaan-31609046/)
 - 👾 Fun fact: I'm an avid Magic: The Gathering player and love exploring new strategies.
 
 ### 📈 My GitHub Stats
