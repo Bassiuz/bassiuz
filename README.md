@@ -1,6 +1,6 @@
 # Hello, I'm Bas de Vaan 👋🧙‍♂️
 
-## 🚀 Software Developer at Dutch Coding Company
+## 🚀 Software Developer at MedApp
 
 Welcome to my digital realm, where code 🧬 and creativity 🎨 converge! I'm a passionate Flutter developer on a mission to weave digital magic into every mobile experience.
 
@@ -8,7 +8,7 @@ Welcome to my digital realm, where code 🧬 and creativity 🎨 converge! I'm a
 With over 10 years of (app) development experience, I'm here to teach 📚 and help you turn your app dreams into captivating reality. But that's not all – beyond the lines of code, I'm a self-proclaimed Magic: The Gathering sorcerer 🧙‍♂️ with a penchant for mastering off-grid strategies.
 
 ### 💼 What I Do
-By day, you'll find me conjuring elegant Flutter solutions at Dutch Coding Company, where I'm constantly pushing the boundaries of what's possible in mobile development.
+By day, you'll find me conjuring elegant Flutter solutions at MedApp, where I'm constantly pushing the boundaries of what's possible in mobile development.
 
 ### 🤝 Let's Connect
 - 📫 How to reach me:
